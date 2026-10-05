@@ -3,8 +3,8 @@ import yaml
 import json
 import os
 
-REPO_OWNER = "space-wizards"
-REPO_NAME = "space-station-14"
+REPO_OWNER = "Triad-Sector"
+REPO_NAME = "Triad_Sector"
 BRANCH = "master"
 
 STATIC_DB_FILE = "chem_recipes.json"
