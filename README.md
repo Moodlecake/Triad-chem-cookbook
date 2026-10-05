@@ -2,7 +2,7 @@
 
 An interactive database and guidebook for the Space Station 14 chemistry system. This website automates the retrieval of recipes directly from the game files and provides the standard community-sourced mixing guide.
 
-**[View live site](https://alex-infdev.github.io/ss14-chem-cookbook/)**
+**[View live site](https://github.com/Moodlecake/Triad-chem-cookbook.git)**
 
 ## Features
 
