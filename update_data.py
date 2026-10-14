@@ -11,8 +11,8 @@ STATIC_DB_FILE = "chem_recipes.json"
 OUTPUT_FILE = "chem_db.json"
 
 TARGET_PATHS = [
-    "Resources/Prototypes/Reagents",
-    "Resources/Prototypes/Recipes/Reactions"
+    "Triad_Sector/Resources/Prototypes/Reagents",
+    "Triad_Sector/Resources/Prototypes/Recipes/Reactions"
 ]
 LOCALE_PATH = "Resources/Locale/en-US/reagents"
 
