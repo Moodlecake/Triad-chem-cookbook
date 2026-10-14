@@ -5,7 +5,7 @@ import os
 
 REPO_OWNER = "Triad-Sector"
 REPO_NAME = "Triad_Sector"
-BRANCH = "master"
+BRANCH = "main"
 
 STATIC_DB_FILE = "chem_recipes.json"
 OUTPUT_FILE = "chem_db.json"
